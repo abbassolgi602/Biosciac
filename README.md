@@ -14,4 +14,4 @@ Biosciac is a biology website managed by Islamic Azad University, Rodehen Unit. 
 3. Click Activate to use your new theme right away.
 
 ## Bugs ##
-If you find an issue, let us know [here](https://github.com/WP-Staging/wp-staging/issues?state=open)!
+If you find an issue, let us know
